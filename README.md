@@ -7,9 +7,7 @@
 	<a href="https://play.google.com/store/apps/developer?id=Erkin+Dilekci"><img src="https://img.icons8.com/bubbles/75/000000/google-play.png" alt="Google Play"/></a>
 </p>
 
-<div align="center">
-  <h3>About Me:</h3>
-  <p>I have a passion for software development, particularly in the realm of Android app development. I am a responsible and ambitious individual who continuously strives to improve my skills and abilities in this field. My particular interest lies in using Kotlin to build robust and efficient mobile applications. Since mid-2022, I have been actively developing Android apps for both the Google Play Store and GitHub, using Kotlin as my language of choice. Through these experiences, I have gained hands-on experience in building apps that provide exceptional user experiences while meeting the highest standards of code quality and maintainability.</p>
+  <div align="center">
   <h3 align="center">Languages and Tools</h3>
 
 | Android | Kotlin | Jetpack Compose | Git | Firebase | Java | Python |
