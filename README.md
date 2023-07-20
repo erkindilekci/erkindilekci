@@ -1,4 +1,3 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0OX3QKBYPEQ6qvcSIvke1A.png)
 <h1 align="center">Hi 👋, I'm Erkin Dilekçi</h1>
 <h3 align="center">Kotlin Developer with a Focus on Building Elegant and Efficient Mobile Applications Using Jetpack Compose</h3>
 <p align="center">
