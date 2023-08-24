@@ -5,7 +5,6 @@
 	<a href="https://www.linkedin.com/in/erkin-dilekçi-927777216/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://play.google.com/store/apps/developer?id=Erkin+Dilekci"><img src="https://img.icons8.com/bubbles/75/000000/google-play.png" alt="Google Play"/></a>
 </p>
-
   <div align="center">
   <h3 align="center">Languages and Tools</h3>
 
