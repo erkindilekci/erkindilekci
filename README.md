@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erkin Dilekçi</h1>
-<h3 align="center">Kotlin Developer with a Focus on Building Elegant and Efficient Mobile Applications Using Jetpack Compose</h3>
+<h3 align="center">Android Developer with a Focus on Building Elegant and Efficient Mobile Applications</h3>
 <p align="center">
 	<a href="mailto:dilekcierkin@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/erkin-dilekçi-927777216/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
