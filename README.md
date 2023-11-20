@@ -1,3 +1,5 @@
+![js](https://github.com/erkindilekci/erkindilekci/assets/109282517/3438f46e-760d-4d52-aab9-ae7adb788c41)
+
 <h1 align="center">Hi 👋, I'm Erkin Dilekçi</h1>
 <h3 align="center">Android Developer with a Focus on Building Elegant and Efficient Mobile Applications</h3>
 <p align="center">
