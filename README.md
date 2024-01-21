@@ -5,7 +5,7 @@
 <p align="center">
 	<a href="https://www.erkindilekci.com"><img src="https://github.com/erkindilekci/erkindilekci/assets/109282517/41c83876-c768-470c-9ee5-7de76dd0216f" width="75" alt="Website"/></a>
 	<a href="mailto:dilekcierkin@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/erkin-dilekçi-927777216/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/erkindilekci/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://play.google.com/store/apps/developer?id=Erkin+Dilekci"><img src="https://img.icons8.com/bubbles/75/000000/google-play.png" alt="Google Play"/></a>
 </p>
   <div align="center">
